@@ -81,7 +81,19 @@ select {
 }
 
 /* Header */
+header {
+    padding: 50px;
+    text-align: center;
+    color:#f20ac8;
+    background-color: #000;
 
+}
 /* Cards */
 
 /* Footer */
+footer {
+    padding: 30px;
+    text-align: center;
+    color:#f20ac8;
+    background-color: aqua;
+}
